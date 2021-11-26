@@ -1,4 +1,4 @@
 {
-  "type": "character",
+  "type": "choiceDialogue",
   "text": ["one", "end1"]
 }
