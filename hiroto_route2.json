@@ -1,3 +1,4 @@
 {
+  "type": "choiceDialogue",
   "text": ["two", "end2"]
 }
